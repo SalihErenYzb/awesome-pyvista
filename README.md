@@ -61,6 +61,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Open Geoscience
 
 - [omfvista](https://github.com/OpenGeoVis/omfvista) – 3D visualization for the Open Mining Format (omf)
+- [Trajectory Visualizer](https://github.com/SalihErenYzb/Trajectory-Visualizer) – 3D Earth Trajectory Visualizer.
 
 ## pointcloud
 
